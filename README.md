@@ -1,7 +1,7 @@
 # Stroke-EEG-Brain-network-analysis
 Functional connectivity and brain network (graph theory) analysis for motor imagery data of stroke patiens.
 
-## Installation:
+## Installation
 1. Create a conda environment
 ```bash
 conda create -n env_name python=3.10
@@ -16,8 +16,9 @@ pip install seaborn==0.12.0
 ```
 
 ## Dataset
-The EEG dataset of stroke patients is provided by Liu et.al in https://doi.org/10.6084/m9.figshare.21679035.v5
+The EEG dataset of stroke patients is provided by Liu et.al in https://doi.org/10.6084/m9.figshare.21679035.v5  
 You just need to download sourcedata.zip through this link and unzip it to the dataset/sourcedata directory.
+
 
 ## Usage
 1. Python file: figshare_stroke_fc2.py
