@@ -37,19 +37,29 @@ python figshare_fc_mst2.py
 ```
 
 ## Directory
-- dataset/
-  - sourecedata/
-    - sub-01/
-    - sub-02/  
-    ...  
-    - sub-50/
-  - subject.csv
-- data_load/
-  - ImCoh_data/
-    - alpha_beta12/
-      - imcoh_left.npy
-      - imcoh_right.npy
-- figshare_stroke_fc2.py
-- figshare_fc_mst2.py
+│  figshare_fc_mst2.py
+│  figshare_stroke_fc2.py
+│  
+├─dataset
+│  │  subject.csv
+│  │  
+│  └─sourcedata
+│      ├─sub-01
+│      │      sub-01_task-motor-imagery_eeg.mat
+│      │      
+│      ├─sub-02
+│      │      sub-02_task-motor-imagery_eeg.mat
+│      │ 
+│      │  ...
+│      │ 
+│      └─sub-50
+│              sub-50_task-motor-imagery_eeg.mat
+│              
+└─data_load
+    └─ImCoh_data
+        └─alpha_beta12
+                imcoh_left.npy
+                imcoh_right.npy
+
   
 
