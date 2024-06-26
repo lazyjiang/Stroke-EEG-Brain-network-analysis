@@ -1,0 +1,17 @@
+{
+	"InstitutionAddress": "No.45 Changchun Street, Xicheng District, Beijing, China",
+	"InstitutionName": "Xuanwu Hospital Capital Medical University",
+	"InstitutionDepartmentName": "Department of Neurology",
+	"Manufacturer": "Xian ZhenTec Intelligence",
+	"ManufacturerModelName": "ZhenTec NT1",
+	"TaskName": "Motor Imagery",
+	"RecordingType": "Continuous",
+	"EEGPlacementScheme": "10-10 System",
+	"SamplingFrequency": 500,
+	"PowerLineFrequency": 50,
+	"EEGChannelCount": 29,
+	"EOGChannelCount": 2,
+	"EEGReference": "CPz",
+	"EEGGround": "FPz",
+	"SoftwareFilter": "N/A"
+}

@@ -1,0 +1,39 @@
+{
+	"Participant_ID": {
+		"Description": "Unique participant identifier."
+	},
+	"Gender": {
+		"Description": "Sex of the participant.",
+		"Levels": {
+			"M": "male",
+			"F": "female"
+		}
+	},
+	"Age": {
+		"Description": "Age of the participant."
+	},
+	"ParalysisSide": {
+		"Description": "The side of limb paralysis due to stroke."
+	},
+	"Duration": {
+		"Description": "The time from the stroke onset to patient enrolling."
+	},
+	"Handedness": {
+		"Description": "The tendency to use one hand rather than the other."
+	},
+	"IsFirstTime": {
+		"Description": "Whether the patient is first-ever stroke or not."
+	},
+	"StrokeLocation": {
+		"Description": "The infarction location of stroke."
+	},
+	"NIHSS": {
+		"Description": "National Institute of Health stroke scale (NIHSS). The NIHSS is a 11-item index widely used to assess the severity of acute stroke. The items include level of consciousness, gaze, visual fields, facial palsy, motor arm and leg, ataxia, sensory, Language, dysarthria, etc. Each item is scored 0-2 or 0-3 or 0-4 (0 indicates normal, the highest score 2\/3\/4 indicates complete loss of function or consciousness). The scores for the 11 items are added together to obtain a total score ranging from 0-42 and a higher score indicates more severe neurological impairment."
+	},
+	"MBI": {
+		"Description": "Modified Barthel Index (MBI). The BMI is a 10-item index assessing the activities of daily life, widely used for patients with stroke and brain trauma. The 10 activity items are Personal hygiene, Bathing, Feeding self, Toilet, Stair climbing, Dressing, Bowel control, Bladder control, Ambulation and Chair\/bed transfers. Each activity is rated as 5 levels according to the amount of assistance required in each task (level 1 indicates “unable to performtask”, level 5indicates “full independent”) and has a score correspondingly. The scores for the 10 activities are added together to obtain a total score. The lowest and highest total scores are 0 and 100 respectively, and indicate full dependence and full independence respectively."
+	},
+	"mRS": {
+		"Description": "modified Rankin scale (mRS). The mRS is an index mainly used to measure the overall functional independence of patients, especially for evaluating the prognosis and functional recovery in stroke patients. It has six grades (0-5) and a higher grade corresponds to worse functional disability."
+	}
+}

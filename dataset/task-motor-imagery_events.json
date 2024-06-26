@@ -1,0 +1,37 @@
+{
+	"onset": {
+		"Description": "Event onset",
+		"Units": "millisecond"
+	},
+	"duration": {
+		"Description": "Event duration",
+		"Units": "millisecond"
+	},
+	"trial_type": {
+		"Description": "Event of event ",
+		"Levels": {
+			"1": "Imagining the movement of the left hand",
+			"2": "Imagining the movement of the right hand"
+		}
+	},
+	"response_time": {
+		"Description": "Response time column not use for this data"
+	},
+	"value": {
+		"Description": "Value of event markers",
+		"Levels": {
+			"1": "Instruction beginning",
+			"2": "Motor imagery beginning",
+			"3": "Break beginning"
+		}
+	},
+	"stim_file": {
+		"Description": "Stimulating materials in three stages",
+		"stim_level": {
+			"stim1.png": "Instruction stimuli",
+			"stim2.mp4": "Motor imagery stimuli",
+			"stim3.png": "Break stimuli"
+			}
+		}
+	}
+}
