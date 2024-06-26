@@ -40,8 +40,8 @@ python figshare_fc_mst2.py
 - dataset/
   - sourecedata/
     - sub-01/
-    - sub-02/
-    ...
+    - sub-02/  
+    ...  
     - sub-50/
   - subject.csv
 - data_load/
