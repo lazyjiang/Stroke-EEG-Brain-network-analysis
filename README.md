@@ -37,6 +37,7 @@ python figshare_fc_mst2.py
 ```
 
 ## Directory
+```text
 │  figshare_fc_mst2.py
 │  figshare_stroke_fc2.py
 │  
@@ -60,6 +61,7 @@ python figshare_fc_mst2.py
         └─alpha_beta12
                 imcoh_left.npy
                 imcoh_right.npy
+```
 
   
 
