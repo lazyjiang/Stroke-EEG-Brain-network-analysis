@@ -17,7 +17,7 @@ pip install seaborn==0.12.0
 
 ## Dataset
 The EEG dataset of stroke patients is provided by Liu et.al in https://doi.org/10.6084/m9.figshare.21679035.v5  
-You just need to download sourcedata.zip through this link and unzip it to the dataset/sourcedata directory.
+You just need to download "sourcedata.zip" through this link and unzip it to the "dataset/sourcedata" directory.
 
 
 ## Usage
@@ -36,8 +36,7 @@ python figshare_stroke_fc2.py
 python figshare_fc_mst2.py
 ```
 
-## Project structure
-```text
+## Directory
 - dataset/
   - sourecedata/
     - sub-01/
@@ -48,8 +47,8 @@ python figshare_fc_mst2.py
 - data_load/
   - ImCoh_data/
     - alpha_beta12/
-      1. imcoh_left.npy
-      2. imcoh_right.npy
-1. figshare_stroke_fc2.py
-2. figshare_fc_mst2.py
-```
+      - imcoh_left.npy
+      - imcoh_right.npy
+- figshare_stroke_fc2.py
+- figshare_fc_mst2.py
+
