@@ -2,15 +2,14 @@
 Functional connectivity and brain network (graph theory) analysis for motor imagery data of stroke patiens.
 ## Installation:
 1. Create a conda environment
-'''bash
+```bash
 conda create -n env_name python=3.10
-'''
+
 2. Install pip package
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+
 3. Install seaborn package
-'''bash
+```bash
 pip install seaborn==0.12.0
 
-''' 
