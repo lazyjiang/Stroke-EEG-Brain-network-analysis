@@ -37,7 +37,7 @@ python figshare_fc_mst2.py
 ```
 
 ## Directory
-```text
+```
 - dataset/
   - sourecedata/
     - sub-01/
