@@ -3,4 +3,5 @@ We instructed participants to avoid swallowing and eye blinking during the trial
 If the participants were able to execute a movement, they went back to their initial position after the trial period. 
 Between trials, a break with 2s followed. We recorded one run with 40 trials per run. The scientific article contains 
 all methodological details.    
+
 Liu, Haijie; Lv, Xiaodong (2022). EEG datasets of stroke patients. figshare. Dataset. https://doi.org/10.6084/m9.figshare.21679035.v3
