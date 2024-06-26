@@ -37,7 +37,6 @@ python figshare_fc_mst2.py
 ```
 
 ## Directory
-```
 - dataset/
   - sourecedata/
     - sub-01/
@@ -52,5 +51,5 @@ python figshare_fc_mst2.py
       - imcoh_right.npy
 - figshare_stroke_fc2.py
 - figshare_fc_mst2.py
-```
+  
 
